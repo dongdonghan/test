@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_810a21de1383a8b13beb843377fbb42913d819a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bbc74b2a9253b6dac0f61e263fad05db11657507">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8bbfaf70555a04fca5eb3321fa59dae945f5b1a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_1291cd184a9bd1ac8bcb1227ebf81d92c7004c38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_251d6b9f9a9df4a336dac6081d71c578f338c2bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_dad316917092d5ce55e0ed189bba7b7b57a7db3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_e281f7e485156a9ff0e7b3a92cf6bc1b854755b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a9c22d6d48348192bffd740aae09ccfc56ce0208">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_83893cad0115620c6c8585d814ada7211e3fada3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Volumes/SSD/dong/Workspace_test/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_741ffb1fdc37a77875b7d94a93c6eb462bd40092/classes.dex" />
+    </item>
+
+</items>
